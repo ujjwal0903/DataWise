@@ -1,6 +1,6 @@
 export const navItems = [
     { name: "Browse", path: "/browse" },
-    { name: "Customer Data", path: "/customer-data" },
+    { name: "Submit Data", path: "/submit-data" },
     { name: "Query Generator", path: "/query-generator" },
     { name: "Analytics", path: "/analytics" },
 ];  
